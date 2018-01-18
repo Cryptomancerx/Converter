@@ -1,0 +1,2 @@
+# Converter
+Converter is a handy tool to, eh, convert between commonly encountered formats when working with data and files. It can convert from hex to binary, hex to ascii, ascii to hex, as well as perform both Base64 and URL encoding/decoding. Input can be taken from stdin or from a file. Output is sent to stdout or a file with the extension .out appended to the input file name respectively. Output can also be sent to the clipboard.
